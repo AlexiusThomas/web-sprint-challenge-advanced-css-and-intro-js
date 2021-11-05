@@ -209,10 +209,10 @@ Practice accessing data above by console.log-ing following items:
 
 //(1) Name of the first artist (0th index) in the array
 
-console.log(artist[0]);
+console.log(artists[0])
 //(2) Bio of the third artist (2nd index) in the array 
 
-console.log(artist[2]);
+console.log(artists[2])
 
 
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 2: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 
