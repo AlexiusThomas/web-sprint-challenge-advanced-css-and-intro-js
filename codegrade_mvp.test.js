@@ -202,7 +202,7 @@ beforeEach(()=>{
           "wikipedia": "http://en.wikipedia.org/wiki/Albrecht_Dürer",
           "paintings": 328
         }
-    ];
+    ]
 })
 describe('fooFunction', ()=>{
     it('foo returns foo', ()=>{
